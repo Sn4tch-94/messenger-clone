@@ -1,4 +1,4 @@
-import { Button, FormControl, Input, InputLabel, IconButton } from "@material-ui/core";
+import {  FormControl, Input, IconButton } from "@material-ui/core";
 import React, { useState, useEffect } from "react"
 import './App.css'
 import Message from "./Message"
@@ -37,7 +37,7 @@ function App() {
 
 	return (
 		<div className="App">
-			<img alt="Messenger" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t39.8562-6/120009688_325579128711709_1736249742330805861_n.png?_nc_cat=1&ccb=1-3&_nc_sid=6825c5&_nc_ohc=7FwhBlP9HlgAX89u4pD&_nc_ht=scontent-cdg2-1.xx&oh=7b4a20e1c8be244d7f9dba4df02555e9&oe=60A8D87D"/>
+			<img alt="Messenger" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t39.8562-6/120009688_325579128711709_1736249742330805861_n.png?_nc_cat=1&ccb=1-5&_nc_sid=6825c5&_nc_ohc=9OeoC8KLX6UAX9U7530&_nc_ht=scontent-cdg2-1.xx&oh=6872437df21acbbbd215fb8c5c429e3d&oe=617C713D"/>
 			<h1>Messenger clone 💪🏻</h1>
 			<h2>Welcome {username}</h2>
 			
