@@ -5,21 +5,19 @@
 .app__form {
   padding: 20px;
   position: fixed;
-  bottom: 20px;
+  bottom: 0;
   z-index: 1;
-  background-color: beige;
-  width: 100%;
+  background-color: lightgray;
+  width: 95%;
   margin: 20px;
-  flex: 1;
 }
 
 .app__formControl {
   display: flex !important;
   flex-direction: row !important;
-  flex: 1;
 }
 
-.app__icon {
+.app__input {
   flex: 1;
 }
 

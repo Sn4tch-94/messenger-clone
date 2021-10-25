@@ -55,7 +55,6 @@ function App() {
 					</IconButton>
 				</FormControl>
 			</form>
-
 		</div>
 	);
 }
